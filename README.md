@@ -8,185 +8,133 @@ This repo contains structured implementations and problem-solving exercises acro
 The repository is organized into the following key categories:
 
 🔤 1. Basic Data Structures
+
 📦 Arrays
 
-Implementation basics
-
-Array manipulations
-
-Sliding window techniques
+* Implementation basics
+* Array manipulations
+* Sliding window techniques
 
 🧵 Linked Lists
 
-Singly Linked List
-
-Doubly Linked List
-
-Circular Linked List
-
-Operations (insert, delete, reverse, detect cycle)
+* Singly Linked List
+* Doubly Linked List
+* Circular Linked List
+* Operations (insert, delete, reverse, detect cycle)
 
 🧮 Stacks
 
-Array / LinkedList implementations
-
-Balanced parentheses
-
-Next greater element
+* Array / LinkedList implementations
+* Balanced parentheses
+* Next greater element
 
 🛣️ Queues
 
-Queue using array
-
-Queue using linked list
-
-Circular queue
-
-Priority queue
+* Queue using array
+* Queue using linked list
+* Circular queue
+* Priority queue
 
 🌲 Trees
 
-Binary Tree
-
-Binary Search Tree (BST)
-
-AVL Tree
-
-Segment Tree
-
-Fenwick Tree (BIT)
+* Binary Tree
+* Binary Search Tree (BST)
+* AVL Tree
+* Segment Tree
+* Fenwick Tree (BIT)
 
 🌳 B-Trees & Variants
 
-B-Tree
-
-B+ Tree
-
-Red-Black Tree
+* B-Tree
+* B+ Tree
+* Red-Black Tree
 
 🕸️ Graphs
 
-Adjacency list & matrix
-
-BFS & DFS
-
-Cycle detection
-
-Topological sorting
-
-Shortest path algorithms (Dijkstra, Bellman-Ford)
-
-Minimum spanning tree (Prim & Kruskal)
+* Adjacency list & matrix
+* BFS & DFS
+* Cycle detection
+* Topological sorting
+* Shortest path algorithms (Dijkstra, Bellman-Ford)
+* Minimum spanning tree (Prim & Kruskal)
 
 ⚙️ 2. Algorithms
+
 🔍 Searching
 
-Linear search
-
-Binary search
-
-Interpolation search
-
-Ternary search
+* Linear search
+* Binary search
+* Interpolation search
+* Ternary search
 
 🔃 Sorting
 
-Bubble sort
-
-Selection sort
-
-Insertion sort
-
-Merge sort
-
-Quick sort
-
-Heap sort
-
-Counting/Radix/Bucket sort
+* Bubble sort
+* Selection sort
+* Insertion sort
+* Merge sort
+* Quick sort
+* Heap sort
+* Counting/Radix/Bucket sort
 
 🔄 Recursion
-
-Factorial, Fibonacci
-
-Tower of Hanoi
-
-Recursive tree traversals
-
-Divide & conquer patterns
+* Factorial, Fibonacci
+* Tower of Hanoi
+* Recursive tree traversals
+* Divide & conquer patterns
 
 ♟️ Backtracking
 
-N-Queens
-
-Sudoku solver
-
-Subset & permutation generation
-
-Combination sum problems
+* N-Queens
+* Sudoku solver
+* Subset & permutation generation
+* Combination sum problems
 
 🧠 Dynamic Programming (DP)
 
-Memoization & tabulation patterns
-
-Longest Common Subsequence (LCS)
-
-Longest Increasing Subsequence (LIS)
-
-Knapsack variants
-
-Coin change
-
-Matrix DP (paths, grid problems)
+* Memoization & tabulation patterns
+* Longest Common Subsequence (LCS)
+* Longest Increasing Subsequence (LIS)
+* Knapsack variants
+* Coin change
+* Matrix DP (paths, grid problems)
 
 🧬 Greedy Algorithms
 
-Activity selection
-
-Huffman coding
-
-Interval scheduling
-
-Fractional knapsack
+* Activity selection
+* Huffman coding
+* Interval scheduling
+* Fractional knapsack
 
 🔗 3. Advanced Topics
+
 🧱 Hashing
 
-Hash table implementation
-
-Collision handling (chaining, open addressing)
+* Hash table implementation
+* Collision handling (chaining, open addressing)
 
 🌐 Graph Algorithms (Advanced)
 
-Floyd-Warshall
-
-A* search
-
-Bridges & articulation points (Tarjan’s algorithm)
-
-Disjoint Set Union (Union-Find)
+* Floyd-Warshall
+* A* search
+* Bridges & articulation points (Tarjan’s algorithm)
+* Disjoint Set Union (Union-Find)
 
 ♾️ Heaps & Priority Queues
 
-Min-heap
-
-Max-heap
-
-Heapify operations
-
-K-largest / K-smallest problems
+* Min-heap
+* Max-heap
+* Heapify operations
+* K-largest / K-smallest problems
 
 🚧 Work in Progress
 
 This repository will be continuously updated with:
 
-More optimized solutions
-
-Visualizations for selected algorithms
-
-Problem statements & explanations
-
-LeetCode / HackerRank / Coding interview patterns
+* More optimized solutions
+* Visualizations for selected algorithms
+* Problem statements & explanations
+* LeetCode / HackerRank / Coding interview patterns
 
 🤝 Contributions
 
